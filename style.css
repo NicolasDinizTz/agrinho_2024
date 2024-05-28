@@ -23,5 +23,10 @@ background-color: rgb(138, 0, 80);
 
 }
 
-
+.cabecario_menu-listaitem{
+    display: inline;
+    text-transform: uppercase;
+    margin-left: 10px;
+    
+}
 
