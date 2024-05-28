@@ -3,6 +3,7 @@ background-color: rgb(88, 88, 88);
 
 }
 header{
+display: flex;
 background-color: rgb(83, 4, 107);
 
 
@@ -27,6 +28,6 @@ background-color: rgb(138, 0, 80);
     display: inline;
     text-transform: uppercase;
     margin-left: 10px;
-    
+
 }
 
