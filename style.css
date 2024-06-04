@@ -1,28 +1,28 @@
-body{
-    background: color #ffaeae;;
+body {
+    background-color: #efe9e9;
     }
     
     header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color:#4b6f7e;
+    background-color: #dd70b5;
     }
     
     footer{
-    background-color: #b11745;
+    background-color: #dd70b5;
     }
     
     .cabecalho_imagem{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    padding: 20px;
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     padding: 20px;
     }
     
     .cabecalho_menu-lista{
     
-    margin: 20px
+    margin: 20px;
     
     }
     
@@ -30,20 +30,21 @@ body{
         display: inline;
         text-transform: uppercase;
         margin-left: 10px;
-        }
-        .sobre{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .sobre_imagem{
-        width: 400px;
-        height: 400px;
-        padding: 20px;
-
-        }
-
-        .sobre_texto{
-            text-align: justify
-            ;
-        }
+    }
+    .sobre{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    
+    }
+    .sobre_imagem{
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    
+    }
+    
+    .sobre_texto{
+        text-align: justify;
+    
+    }
