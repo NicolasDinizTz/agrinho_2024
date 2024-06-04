@@ -24,6 +24,10 @@ background-color: rgb(138, 0, 80);
 
 }
 
+.cabecalho_menu-lista{
+    margin: 20px;
+}
+
 .cabecalho_menu-listaitem{
     display: inline;
     text-transform: uppercase;
