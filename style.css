@@ -34,7 +34,7 @@ body{
         .sobre{
             display: flex;
             justify-content: center;
-            
+            align-items: center;
         }
         .sobre_imagem{
         width: 400px;
