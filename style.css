@@ -1,16 +1,16 @@
 body {
-    background-color: #efe9e9;
+    background-color: #0097c5;
     }
     
     header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #dd70b5;
+    background-color: #8266ff;
     }
     
     footer{
-    background-color: #dd70b5;
+    background-color: #0a0041;
     }
     
     .cabecalho_imagem{
