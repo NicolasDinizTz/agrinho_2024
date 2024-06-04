@@ -1,12 +1,12 @@
 body {
-    background-color: #999999;
+    background-color: #bebebe;
     }
     
     header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #0086af;
+    background-color: #006db6;
     }
     
     footer{
