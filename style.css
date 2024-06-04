@@ -1,12 +1,12 @@
 body {
-    background-color: #0097c5;
+    background-color: #5d818b;
     }
     
     header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #8266ff;
+    background-color: #089ac7;
     }
     
     footer{
